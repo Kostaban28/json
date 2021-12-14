@@ -1,14 +1,14 @@
 {
-	"remote_control":false,
-	"github_token":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	"remote_control":true,
+	"github_token":"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",
 	"github_username":"",
-	"username":"your_bot_username",
-	"password":"your_bot_password", 
+	"username":"mrkandemir28",
+	"password":"WSXZA1090807eFe", 
 	"shared_secret":"",
-	"main":"your_main_steamID",
+	"main":"76561198820237779",
 	"bot_playing":["time boost",730,570,440],
 	"persona":"1",
 	"users":[
-		{"user":"your_username","password":"your_password","shared_secret":"","key":"","games":[570,440,730],"persona":1,"logged":true}
+		{"user":"mrkandemir281","password":"your_password","shared_secret":"","key":"","games":[570,440,730],"persona":1,"logged":true}
 	]
 }
