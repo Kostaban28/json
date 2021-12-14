@@ -1,0 +1,14 @@
+{
+	"remote_control":false,
+	"github_token":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	"github_username":"",
+	"username":"your_bot_username",
+	"password":"your_bot_password", 
+	"shared_secret":"",
+	"main":"your_main_steamID",
+	"bot_playing":["time boost",730,570,440],
+	"persona":"1",
+	"users":[
+		{"user":"your_username","password":"your_password","shared_secret":"","key":"","games":[570,440,730],"persona":1,"logged":true}
+	]
+}
